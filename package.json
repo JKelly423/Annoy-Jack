@@ -1,0 +1,17 @@
+{
+  "name": "AnnoyJack",
+  "version": "1.0.1",
+  "description": "A http socket that displays a webpage that allows anyone to send TTS messages to my speakers. Helps keep entertained during quarentine.",
+  "main": "annoy.js",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "say": "^0.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jack Kelly",
+  "license": "ISC"
+}
