@@ -109,7 +109,7 @@ function handler(req, res) {
         '    <img alt="" id="AnoyJackGif" src="https://i.ibb.co/c3xL7jy/Vanilla-1s-286px-1.gif" width="858" height="252">'+
         '    <h3>I was relly bored okay?'+
         '      <br>'+
-        '      all creds go to Zak Mineko for the idea</h3>'+
+        '      all creds go to Zak Mineiko for the idea</h3>'+
         '    <form action="http://e339f080.ngrok.io/" method="POST">'+
         '      <input name="msg" type="textarea" id="messageBox" size="80" placeholder="   Type in anything to this box to have it played on Jack\'s SPEAKERS at FULL VOLUME">'+
         '      <br>'+
